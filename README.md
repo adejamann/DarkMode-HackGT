@@ -1,3 +1,3 @@
 # DarkMode-HackGT
-Ai based game
+Rock Paper Scissor Game
 
